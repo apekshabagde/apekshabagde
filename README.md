@@ -1,1 +1,1 @@
-
+Data Analyst and CSE graduate specializing in machine learning, scalable backend architecture, and full-stack development. Proven expertise building end-to-end applications utilizing Python, React.js, and Node.js. Skilled in integrating GenAI and Advanced SQL to process complex datasets and deliver intelligent, high-performance software systems.
